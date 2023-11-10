@@ -1,4 +1,4 @@
-Este programa implementa un sistema de recomendación de películas basado en filtrado colaborativo utilizando el modelo NearestNeighbors de scikit-learn. El enfoque se centra en características numéricas como las calificaciones promedio y el número de votos. El código utiliza un conjunto de datos de películas que incluye información sobre las calificaciones y votos de los usuarios.
+Este programa implementa un sistema de recomendación de películas basado en filtrado colaborativo utilizando el modelo NearestNeighbors de sklearn. El enfoque se centra en características numéricas como las calificaciones promedio y el número de votos. El código utiliza un conjunto de datos de películas que incluye información sobre las calificaciones y votos de los usuarios.
 
 Pasos del Programa:
 
